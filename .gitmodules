@@ -4,4 +4,5 @@
 	branch = HEAD
 [submodule "manydist"]
 	path = manydist
-	url = https://github.com/cran/manydist
+	url = https://github.com/alfonsoiodicede/manydist_package
+	subdir = manydist
